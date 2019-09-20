@@ -16,3 +16,7 @@ Reduce ``stdOut`` ``stdErr`` that may clog ``LAUNCH EXTERNAL PROCESS`` especiall
 Comprehensive tutorial for ``ffmpeg``
 
 [https://nyanshiba.hatenablog.com/entry/2018/02/03/071256](https://nyanshiba.hatenablog.com/entry/2018/02/03/071256)
+
+More links
+
+[https://qiita.com/tomoyukilabs/items/c4eb7a829baac880797c](https://qiita.com/tomoyukilabs/items/c4eb7a829baac880797c)
