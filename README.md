@@ -12,3 +12,7 @@ Mac: Make sure libraries such as ``lzma`` or ``z`` are not dynamically linked (i
 Reduce ``stdOut`` ``stdErr`` that may clog ``LAUNCH EXTERNAL PROCESS`` especially on Windows.
 
 [https://superuser.com/questions/326629/how-can-i-make-ffmpeg-be-quieter-less-verbose](https://superuser.com/questions/326629/how-can-i-make-ffmpeg-be-quieter-less-verbose)
+
+Comprehensive tutorial for ``ffmpeg``
+
+[https://nyanshiba.hatenablog.com/entry/2018/02/03/071256](https://nyanshiba.hatenablog.com/entry/2018/02/03/071256)
