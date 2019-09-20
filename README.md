@@ -20,3 +20,7 @@ Comprehensive tutorial for ``ffmpeg``
 More links
 
 [https://qiita.com/tomoyukilabs/items/c4eb7a829baac880797c](https://qiita.com/tomoyukilabs/items/c4eb7a829baac880797c)
+
+[https://www.nuevolab.com/videojs/tests/dash](https://www.nuevolab.com/videojs/tests/dash)
+
+[https://developer.mozilla.org/en-US/docs/Web/HTML/DASH_Adaptive_Streaming_for_HTML_5_Video](https://developer.mozilla.org/en-US/docs/Web/HTML/DASH_Adaptive_Streaming_for_HTML_5_Video)
