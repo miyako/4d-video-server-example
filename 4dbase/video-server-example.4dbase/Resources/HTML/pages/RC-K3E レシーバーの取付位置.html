@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+    <meta charset="utf-8" />
+		<title>RC-K3E レシーバーの取付位置</title>
+        <link href="/css/video-js.min.css" rel="stylesheet" />
+        <script src="/js/video.min.js"></script>
+				<script src="/js/jquery-3.4.1.min.js"></script>
+	</head>
+	<body>
+		<div align="center">
+            <video-js
+                id="videoPlayer"
+                class="video-js"
+                controls
+                preload="auto"
+                poster="/media/RC-K3E レシーバーの取付位置/thumbnail.png"
+                data-setup='{"fluid": true}'>
+								<source src="/media/RC-K3E レシーバーの取付位置/manifest.mpd" type="application/dash+xml"></source>
+								<source src="/media/RC-K3E レシーバーの取付位置/640x360_750k.mp4" type="video/mp4"></source>
+								<track kind="captions" src="/media/RC-K3E レシーバーの取付位置/caption_ja.vtt" srclang="ja" label="Japanese" default />
+                <p class="vjs-no-js">
+                To view this video please enable JavaScript, and consider upgrading to a
+                web browser that
+                <a href="https://videojs.com/html5-video-support/" target="_blank">
+                    supports HTML5 video
+                </a>
+                </p>
+            </video-js>
+		</div>
+		<script src="/js/media.js"></script>
+	</body>
+</html>

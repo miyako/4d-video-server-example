@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+    <meta charset="utf-8" />
+		<title>ホーム</title>
+	</head><!--#4dcode
+		C_COLLECTION:C1488($names)
+		$names:=ds:C1482.Media.all().toCollection("name,ID")
+		ARRAY OBJECT:C1221($media;0)
+		COLLECTION TO ARRAY:C1562($names;$media)-->
+	<body>
+		<div>
+			<ul><!--#4dloop $media-->
+				<li><a href="/pages/$4dtext($media{$media}.name).html"><!--#4dtext $media{$media}.name--></a></li><!--#4dendloop-->
+			</ul>
+		</div>
+	</body>
+</html>
